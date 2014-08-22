@@ -1380,7 +1380,7 @@ span.color-red {
   right: 20px;
   width: 120px;
   height: 32px;
-  background-image: url(../img/in-press.png);
+  /* background-image: url(../img/in-press.png); */
   background-repeat: no-repeat;
   -webkit-transition: .25s linear;
   -moz-transition: .25s linear;
