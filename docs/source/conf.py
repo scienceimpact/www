@@ -54,7 +54,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'rapydli'
+project = u'Science Impact'
 copyright = u'2014, Indiana University, others'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -116,7 +116,7 @@ html_theme = 'bootstrap'
 # documentation.
 html_theme_options = {
     # Navigation bar title. (Default: ``project`` value)
-    'navbar_title': "rapydli",
+    'navbar_title': "Science Impact",
 
     # Tab name for entire site. (Default: "Site")
     'navbar_site_name': "Site",

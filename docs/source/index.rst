@@ -11,6 +11,7 @@ My Cloudmesh
 
    team
    overview
+   features
 
 .. comment::
 
