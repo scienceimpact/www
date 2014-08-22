@@ -1359,9 +1359,9 @@ span.color-red {
   line-height: 28px;
   position: relative;
   padding-left: 16px;
-  padding-bottom: 32px;
+  /* padding-bottom: 32px;
   margin-bottom: 15px;
-  display: block;
+  display: block;*/
   -webkit-transition: color .25s linear;
   -moz-transition: color .25s linear;
   -o-transition: color .25s linear;
@@ -1372,6 +1372,8 @@ span.color-red {
   color: #4f8db3;
   text-decoration: none;
 }
+
+/*
 .in-press a:after {
   content: '';
   display: block;
@@ -1380,7 +1382,7 @@ span.color-red {
   right: 20px;
   width: 120px;
   height: 32px;
-  /* background-image: url(../img/in-press.png); */
+  background-image: url(../img/in-press.png); 
   background-repeat: no-repeat;
   -webkit-transition: .25s linear;
   -moz-transition: .25s linear;
@@ -1388,6 +1390,7 @@ span.color-red {
   -ms-transition: .25s linear;
   transition: .25s linear;
 }
+*/
 .in-press a:before {
   content: "\201C";
   margin-left: -16px;
