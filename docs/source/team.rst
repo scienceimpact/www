@@ -1,15 +1,6 @@
 Team
 ======================================================================
 
-
-* Gregor von Laszewski (laszewski@gmail.com)
-* Fugang Wang
-* Geoffrey Fox
-
-please put your names here
-
-
-
 .. list-table:: 
    :widths: 20 80
    :header-rows: 1
@@ -35,8 +26,16 @@ please put your names here
        | School of Informatics and Computing
        | 419 N. Indiana Ave
        | Bloomington IN 47408
-       | Phone: (812) 856 1311
        | E-mail: kevinwangfg@gmail.com 
+   * - |furlani|
+     -
+     
+       | Thomas Furlani
+       | SUNY at Buffalo
+       | 701 Ellicott Street
+       | Buffalo, New York, 14203
+       | Phone: (716) 881-8939
+       | E-mail: furlani@ccr.buffalo.edu
    * - |fox|
      -
      
@@ -44,23 +43,20 @@ please put your names here
        | School of Informatics and Computing
        | 419 N. Indiana Ave
        | Bloomington IN 47408
-       | Phone: (812) 856 1311
        | E-mail: gcfexchange@gmail.com 
 
+
 .. |gregor| image:: images/gregor.jpg
-    :height: 164px
     :width: 120px
-.. _gvl1pdf: https://github.com/cyberaide/paper-tas/raw/master/vonLaszewski-tas.pdf
 
-.. |gregor| image:: images/fugang.jpg
-    :height: 164px
+.. |fugang| image:: images/fugang.jpg
     :width: 120px
-.. _gvl1pdf: https://github.com/cyberaide/paper-tas/raw/master/vonLaszewski-tas.pdf
 
-.. |gregor| image:: images/fox.jpg
-    :height: 164px
+.. |fox| image:: images/fox.jpg
     :width: 120px
-.. _gvl1pdf: https://github.com/cyberaide/paper-tas/raw/master/vonLaszewski-tas.pdf
+
+.. |furlani| image:: images/furlani.jpg
+    :width: 120px
 
 
 
