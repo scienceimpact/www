@@ -6,14 +6,9 @@ My Cloudmesh
 
    team
    overview
+   news
    features
-
-.. comment::
-
-   Indices and tables
-   ==================
-
-   * :ref:`genindex`
-   * :ref:`modindex`
-   * :ref:`search`
+   xsede
+   metrics
+   database
 
